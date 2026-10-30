@@ -3,6 +3,9 @@
 This is the sample that utilizes PlayStation Eye stuff.\
 By the way, pressing START returns to XMB.
 
+> [!NOTE]
+> You need to have actual PlayStation Eye.
+
 ## How to compile?
 
 You need a machine running Linux. WSL is supported.

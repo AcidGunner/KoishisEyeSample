@@ -20,7 +20,7 @@ DATA		:=	data
 SHADERS		:=	shaders
 INCLUDES	:=	include
 
-LIBS		:=	-ltiny3d -lrsx -lgcm_sys -lio -lsysutil -lrt -llv2 -lsysmodule -lz -lm -llv2dbg -lcamera
+LIBS		:=	-lrsx -lgcm_sys -lio -lsysutil -lrt -llv2 -lsysmodule -lcamera -lz -lm -llv2dbg
 
 CFLAGS		=	-O2 -Wall -mcpu=cell $(MACHDEP) $(INCLUDE)
 
